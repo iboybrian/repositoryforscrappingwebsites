@@ -1,0 +1,96 @@
+{
+  "source": "https://quepasa.gt/calendario-de-eventos-antigua-guatemala/",
+  "bucket": "events",
+  "entries": [
+    {
+      "ids": [311, 312],
+      "event": "Yoga en Panza Verde",
+      "detail_page": "https://quepasa.gt/events/yoga-at-panza-verde/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2022/11/sunsetyoga-2_647_062115121022.-s.jpg",
+      "storage_path": "1a0d63b60bff1f00/sunsetyoga-2_647_062115121022.-s.jpg",
+      "include": false,
+      "note": "Stock silhouette on a beach, not Panza Verde. Needs a decision."
+    },
+    {
+      "ids": [313, 314],
+      "event": "Música en vivo en Fridas",
+      "detail_page": "https://quepasa.gt/events/live-music-at-fridas/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2024/10/462741503_849751660-s.jpg",
+      "storage_path": "1a0d63b60bff3def/462741503_849751660-s.jpg",
+      "include": true,
+      "note": "Branded Fridas graphic (logo + Frida Kahlo illustration), not a photo."
+    },
+    {
+      "ids": [315, 316],
+      "event": "Yoga en Earth Lodge",
+      "detail_page": "https://quepasa.gt/events/yoga-at-earth-lodge/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-ss.jpg",
+      "storage_path": "1a0d63b60bff5cde/WhatsApp-Image-2024-11-ss.jpg",
+      "include": true,
+      "note": "Photo of a yoga session with garden view."
+    },
+    {
+      "ids": [317, 318],
+      "event": "Free Salsa Lessons (Las Palmas)",
+      "detail_page": "https://quepasa.gt/events/free-salsa-lessons/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2019/05/salsa-las-palmas-1.jpg",
+      "storage_path": "1a0d63b60bffd89a/salsa-las-palmas-1.jpg",
+      "include": true,
+      "note": "Site image is a Spotify playlist cover (ab67706f00000bs.jpg, stock photo, not Las Palmas). Reusing the Las Palmas salsa photo instead."
+    },
+    {
+      "ids": [319, 320],
+      "event": "Música en vivo en El Depósito",
+      "detail_page": "https://quepasa.gt/events/live-music-at-el-deposito/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2024/10/IMG_8935s.jpg",
+      "storage_path": "1a0d63b60bff7bcd/IMG_8935s.jpg",
+      "include": true,
+      "note": "Photo of two singers, El Depósito watermark."
+    },
+    {
+      "ids": [321, 322],
+      "event": "Música en vivo en Cervecería Catorce",
+      "detail_page": "https://quepasa.gt/events/live-music-at-cerveceria-catorce/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2019/09/Dos-Gatos-cerveceria-catorce-1.jpg",
+      "storage_path": "1a0d63b60bff9abc/Dos-Gatos-cerveceria-catorce-1.jpg",
+      "include": true,
+      "note": "Photo of guitar + violin duo on the terrace (2019)."
+    },
+    {
+      "ids": [323, 324],
+      "event": "Live Music At Panza Verde (La Cueva / Blue Room)",
+      "detail_page": "https://quepasa.gt/events/live-music-at-panza-verde/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2022/11/299785962_101664194.-s.jpg",
+      "storage_path": "1a0d63b60bffb9ab/299785962_101664194.-s.jpg",
+      "include": true,
+      "note": "Photo of the room with grand piano and double bass."
+    },
+    {
+      "ids": [325, 326],
+      "event": "Salsa en vivo Las Palmas",
+      "detail_page": "https://quepasa.gt/events/salsa-las-palmas-antigua-guatemala/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2019/05/salsa-las-palmas-1.jpg",
+      "storage_path": "1a0d63b60bffd89a/salsa-las-palmas-1.jpg",
+      "include": true,
+      "note": "Photo of salsa band percussionist (2019)."
+    },
+    {
+      "ids": [327, 328],
+      "event": "Música en vivo en Aqua",
+      "detail_page": "https://quepasa.gt/events/live-music-aqua-antigua-guatemla/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-16-at-11.33.s.jpg",
+      "storage_path": "1a0d63b60bfff789/WhatsApp-Image-2022-08-16-at-11.33.s.jpg",
+      "include": true,
+      "note": "Photo of acoustic duo with overlay 'Every Saturday & Sunday 2-4pm', which contradicts event_date_label 'Sat 6-8pm'."
+    },
+    {
+      "ids": [329, 330],
+      "event": "Live Music at Nifu Nifa",
+      "detail_page": "https://quepasa.gt/events/live-music-at-nifu-nifa/",
+      "image_url": "https://quepasa.gt/wp-content/uploads/2019/09/Nifu-Nifa-6-1.jpg",
+      "storage_path": "1a0d63b60c001678/Nifu-Nifa-6-1.jpg",
+      "include": true,
+      "note": "Photo of steak carving in the patio, Nifu Nifa watermark. Venue shot, no music."
+    }
+  ]
+}
